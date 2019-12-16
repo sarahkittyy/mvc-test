@@ -16,4 +16,4 @@ apt install -y npm
 
 cd /home/vagrant/workspace
 npm install
-npm run dev &
+screen -dm -S dev npm run dev

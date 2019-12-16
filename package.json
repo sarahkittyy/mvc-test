@@ -16,5 +16,9 @@
  },
  "scripts": {
   "dev": "tsc-watch --outDir ./dist --onSuccess 'nodejs .'"
+ },
+ "dependencies": {
+  "@types/mongoose": "^5.5.34",
+  "mongoose": "^5.8.1"
  }
 }
