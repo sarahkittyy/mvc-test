@@ -1,0 +1,6 @@
+*.code-workspace
+.vagrant
+node_modules
+build
+.env
+dist
